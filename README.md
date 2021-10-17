@@ -49,8 +49,8 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![vs-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![MS Office](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Camtashia](https://img.shields.io/badge/adobe-illustrator%20-%23F05033.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS%20office%20-%2331A8FF.svg?&style=for-the-badge&logo=MS%20Office&logoColor=white)
+![Camtashia](https://img.shields.io/badge/Camtashia%20-%23F05033.svg?&style=for-the-badge&logo=Camtashia&logoColor=white)
 
 <br>
 <br>
