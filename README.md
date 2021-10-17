@@ -16,7 +16,7 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 <br>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-sujon-ahmed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/sujon-ahmed-469b6320a/)
-[![Twitter: sujonahmed](https://img.shields.io/twitter/follow/sujonahmedriman?style=social)](https://twitter.com/sujonahmedriman)
+[![Twitter: alamainvp](https://img.shields.io/twitter/follow/AlaminVP1?style=social)](https://twitter.com/AlaminVP1)
 [![GitHub: sujonahmed](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
