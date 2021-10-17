@@ -15,9 +15,9 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 
 <br>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-sujon-ahmed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/sujon-ahmed-469b6320a/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-alamin-vp?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujon-ahmed-469b6320a/)](https://www.linkedin.com/in/al-amin-vp-55088a203/)
 [![Twitter: alamainvp](https://img.shields.io/twitter/follow/AlaminVP1?style=social)](https://twitter.com/AlaminVP1)
-[![GitHub: sujonahmed](https://img.shields.io/github/followers/sujon-ahmed?label=follow&style=social)](https://github.com/Sujon-Ahmed)
+[![GitHub: alaminvp](https://img.shields.io/github/followers/alaminvp?label=follow&style=social)](https://github.com/alaminvp)
 
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -26,8 +26,8 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 - 🌱 I’m currently learning *HTML5, CSS3, Boostrap, JavaScript,PHP*
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 - 🤔 I’m looking for help with *PHP*
-- 💬 Ask me about anything at [@sujonahmed](https://twitter.com/sujonahmedriman)
-- 📫 How to reach me: [Facebook](https://www.facebook.com/sujonahmedriman.75/)
+- 💬 Ask me about anything at [Twitter](https://twitter.com/AlaminVP)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/ranakhan.vp)
 
 
 ## Skills
@@ -58,14 +58,14 @@ Currently not employed, developing skills. Looking for an opportunity in an orga
 
 # Github Statistics
 
-![Visitor](https://komarev.com/ghpvc/?username=sujon-ahmedz&color=blueviolet&style=flat-square) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/sujon-ahmed)
+![Visitor](https://komarev.com/ghpvc/?username=alaminvp&color=blueviolet&style=flat-square) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/alaminvp)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
-![Last-commit](https://img.shields.io/github/last-commit/sujon-ahmed/sujon-ahmed?style=flat-square&color=blueviolet)
+![Last-commit](https://img.shields.io/github/last-commit/alaminvp/alaminvp?style=flat-square&color=blueviolet)
 
-![Sujon Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujon-Ahmed&show_icons=true&theme=dracula)
-![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujon-Ahmed&theme=dracula)
+![alaminvp GitHub stats](https://github-readme-stats.vercel.app/api?username=alaminvp&show_icons=true&theme=dracula)
+![Most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminvp&theme=dracula)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Sujon-Ahmed&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=alaminvp&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
